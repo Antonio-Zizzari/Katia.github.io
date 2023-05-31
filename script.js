@@ -51,7 +51,7 @@ var confetti = new ConfettiGenerator(confettiSettings);
 confetti.render();
 
  let p = document.createElement("p");
- p.innerText = "Congratulazione hai fatto la scelta giusta 🎉 \nAdesso ti tocca sposarmi scemina 😉";
+ p.innerText = "Congratulazioni hai fatto la scelta giusta 🎉 \nAdesso ti tocca sposarmi scemina ❤";
   p.style.fontSize = "2rem";
   p.style.fontWeight = "bold";
   p.style.textAlign = "center";
